@@ -1,0 +1,14 @@
+{
+  "name": "electron-tutorial-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-builder --dir",
+    "build": "electron-builder"
+  },
+  "description": "An electron application for tutorials",
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
